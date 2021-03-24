@@ -5,6 +5,8 @@ after manual approval/check.
 
 Make sure to add this folder to the root of your repository, this is a strict requirement.
 
+**KEEP APPENDING COMMON BLACKLISTED WORDS**
+
 ## Why
 
 Manually hunting typos & fixing them on a large set of files is a tedious job,
