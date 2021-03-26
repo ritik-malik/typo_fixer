@@ -5,7 +5,22 @@ after manual approval/check.
 
 Make sure to add this folder to the root of your repository, this is a strict requirement.
 
-**KEEP APPENDING COMMON BLACKLISTED WORDS**
+**TODO: KEEP APPENDING COMMON BLACKLISTED WORDS**
+
+## Contributions
+
+The following PRs have been made using `typo_fixer`
+
+|  S/N   |   PR  |   Status  |
+|--------|-------|-----------|
+|  1     | [Automated Typo fixer #574](https://github.com/chaoss/website/pull/574) | merged |
+|  2     | [fixed typos automatically #123](https://github.com/chaoss/wg-risk/pull/123) | merged |
+|  3     | [autofixed typos : task 1/5 #108](https://github.com/chaoss/wg-common/pull/108) | merged |
+|  4     | [autofixed typos : task 2/5 #401](https://github.com/chaoss/wg-evolution/pull/401) | merged |
+|  5     | [autofixed typos : task 3/5 #139](https://github.com/chaoss/wg-value/pull/139) | merged |
+|  6     | [autofixed typos : task 4/5 #355](https://github.com/chaoss/wg-diversity-inclusion/pull/355) | merged |
+|  7     | [autofixed typos : task 5/5 #16](https://github.com/chaoss/community-handbook/pull/16) | merged |
+
 
 ## Why
 
