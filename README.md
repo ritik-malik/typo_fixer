@@ -1,9 +1,9 @@
 # Automated Typo Fixer
 
-This folder contains scripts that are used for finding typos in a repository recursively & fixing them automatically
+This repository contains scripts that are used for finding typos in a repository recursively & fixing them automatically
 after manual approval/check.
 
-Make sure to add this folder to the root of your repository, this is a strict requirement.
+Make sure to add this repository to the root of your repository.
 
 **TODO: KEEP APPENDING COMMON BLACKLISTED WORDS**
 
